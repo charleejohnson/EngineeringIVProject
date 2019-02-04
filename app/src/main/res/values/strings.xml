@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">app testing</string>
+    <string name="settings_name">close app</string>
+    <string name="secondary_settings">second</string>
+
+   <!-- these were added with the stack overflow code for menu -->
+    <string name="share"></string>
+    <string name="options"></string>
+    <string name="settings"></string>
+    <string name="help"></string>
+
+
+</resources>
